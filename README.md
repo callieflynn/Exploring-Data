@@ -23,6 +23,6 @@ The overall goal is to explore the National Emissions Inventory database and see
 
 4.	Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008? Yes, emissions from coal combustion have decreased.
 
-5.	How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City? Yes, emissions have decreased.
+5.	Have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City? Yes, emissions have decreased.
 
 6.	Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions? Los Angeles County has seen greater changes, although Baltimore City has decreased emissions each year.
