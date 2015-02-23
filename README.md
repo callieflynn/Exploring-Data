@@ -1,4 +1,4 @@
-# Exploring-Data
+# Exploring Data
 Using Graphs to Explore Emissions Data
 
 ## Introduction
@@ -21,7 +21,7 @@ The overall goal is to explore the National Emissions Inventory database and see
 
 3.	Of the four types of sources indicated by the type (point, nonpoint, onroad, nonroad) variable, which of these four sources have seen decreases in emissions from 1999–2008 for Baltimore City? Which have seen increases in emissions from 1999–2008? Three variables have decreased each year since 1999: non-road, nonpoint, and on-road. Point emissions went up each year except 2008, which showed a large decrease in emissions.
 
-4.	Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008? Yes, emissions from coal combustion have decreased.
+4.	Across the United States, how have emissions from coal combustion-related sources changed from 1999–2008? Emissions from coal combustion have decreased.
 
 5.	Have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City? Yes, emissions have decreased.
 
